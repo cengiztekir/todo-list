@@ -67,7 +67,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ## 
 ./vendor/bin/sail up
-docker exec -it example-app-laravel.test-1 bash
+docker exec -it todo-list-laravel.test-1 bash
 
 php artisan migrate:fresh --seed
 provider'lar tek tek yada toplu başlatılabilir.
